@@ -1,2 +1,2 @@
 # Description
-This is the final assignment for the Bakend Developer Capstone.
+This is the final project for the Meta Bakend Developer Capstone.
